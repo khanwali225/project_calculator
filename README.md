@@ -1,5 +1,6 @@
 //project_calculator class summary
-this is physical second class of typescript and we are making calculator 
+//this is physical second class of typescript and we are making calculator 
+
 
 create new folder (Directory)
 open VScode in current folder
